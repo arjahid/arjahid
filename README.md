@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jahid hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahid hasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md jahid hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md jahid hasan" height="30" width="40" /></a>
-<a href="https://fb.com/jahidul jahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahidul jahid" height="30" width="40" /></a>
-<a href="https://instagram.com/arjahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjahid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md jahid hasan" target="blank"><img align="center" src="https://www.linkedin.com/in/jahid-hasan-ba8873144/" alt="md jahid hasan" height="30" width="40" /></a>
+<a href="https://fb.com/jahidul jahid" target="blank"><img align="center" src="https://www.facebook.com/jahidul.jahid.285226" alt="jahidul jahid" height="30" width="40" /></a>
+<a href="https://instagram.com/arjahid" target="blank"><img align="center" src="https://www.instagram.com/ar__jahid/" alt="arjahid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jahid hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jahid hasan" height="30" width="40" /></a>
 </p>
 
