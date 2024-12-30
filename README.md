@@ -24,11 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjahid&show_icons=true&locale=en" alt="arjahid" /></p>
 
 
-## 🏆 GitHub Stats
 
-| **Most Used Languages**                                                                                 | **GitHub Overview**                                                                                                      |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=5) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=issues) |
 
 ## 🔥 Contributions
 
