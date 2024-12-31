@@ -29,7 +29,5 @@
 ## 🔥 Contributions
 
 | **Contribution Stats**                                                                                 |
-|---------------------------------------------------------------------------------------------------------|
-| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=light)  |
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arjahid)](https://git.io/streak-stats)
 
