@@ -28,6 +28,5 @@
 
 ## 🔥 Contributions
 
-                                                                                |
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arjahid)](https://git.io/streak-stats)
 
