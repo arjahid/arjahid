@@ -28,5 +28,5 @@
 
 ## 🔥 Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjahid)
+[![GitHub Streak](https://github-readme-streak-stats-red-beta.vercel.app?user=arjahid&theme=shades-of-purple)](https://git.io/streak-stats)
 
